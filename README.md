@@ -7,3 +7,8 @@ Here are the top technologies I use in my work:
 
 ## Get in touch with me on
 ### [Telegram](https://t.me/mormleapsovann)
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeshark-lucifer&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeshark-lucifer&layout=compact&theme=radical)
