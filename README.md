@@ -15,5 +15,6 @@ I'm a developer working with a range of technologies, including HTML, CSS, JavaS
 ---
 [![](https://visitcount.itsvg.in/api?id=codeshark-lucifer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img alt="snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/codeshark-lucifer/codeshark-lucifer/output/snake.svg" alt="Snake animation" />
 
+###
